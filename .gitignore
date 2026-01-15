@@ -1,0 +1,27 @@
+# Roblox Studio
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Build output
+/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.sublime-*
+
+# Rojo
+/sourcemap.json
+
+# Secrets
+.env
+*.secret
+credentials.json
+
+# Logs
+*.log
